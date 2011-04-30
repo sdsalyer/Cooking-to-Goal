@@ -1,0 +1,72 @@
+<recipe>
+  <name>Instant Chocolate Covered Bunnies (On a Stick)</name>
+  <instructions>1. Insert a wooden stick into the bottom of each bunny. Line a baking sheet with waxed paper. Place the chocolate chips into a glass bowl, and cook in the microwave until just melted, about 30 seconds. Stir the chocolate until smooth.
+2. Dip each bunny into the melted chocolate until coated on all sides, and place onto the prepared baking sheet. Sprinkle with candy sprinkles to decorate. Place into the freezer until the chocolate has set, about 5 minutes.
+</instructions>
+  <servingSize>
+    <quantity>1.0</quantity>
+    <unit></unit>
+  </servingSize>
+  <servings>10.0</servings>
+  <rating>1.0</rating>
+  <ingredients>
+    <ingredient>
+      <name>wooden pop sticks</name>
+      <amount>
+        <quantity>10.0</quantity>
+        <unit></unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>marshmallow Easter bunnies</name>
+      <amount>
+        <quantity>10.0</quantity>
+        <unit></unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>chocolate chips</name>
+      <amount>
+        <quantity>0.5</quantity>
+        <unit>cup</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>mulitcolored candy sprinkles</name>
+      <amount>
+        <quantity>1.0</quantity>
+        <unit>tsp</unit>
+      </amount>
+    </ingredient>
+  </ingredients>
+  <nutritionInformation>
+    <Calories>
+      <quantity>70.0</quantity>
+      <unit>Calories</unit>
+    </Calories>
+    <totalFat>
+      <quantity>2.6</quantity>
+      <unit>grams</unit>
+    </totalFat>
+    <cholesterol>
+      <quantity>1.0</quantity>
+      <unit>milligrams</unit>
+    </cholesterol>
+    <sodium>
+      <quantity>3.0</quantity>
+      <unit>milligrams</unit>
+    </sodium>
+    <totalCarbohydrate>
+      <quantity>12.6</quantity>
+      <unit>grams</unit>
+    </totalCarbohydrate>
+    <dietaryFiber>
+      <quantity>0.5</quantity>
+      <unit>grams</unit>
+    </dietaryFiber>
+    <protein>
+      <quantity>0.6</quantity>
+      <unit>grams</unit>
+    </protein>
+  </nutritionInformation>
+</recipe>

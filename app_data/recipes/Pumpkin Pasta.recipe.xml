@@ -1,0 +1,143 @@
+<recipe>
+  <name>Pumpkin Pasta</name>
+  <instructions>1. Fill a large pot with lightly salted water and bring to a rolling boil over high heat. Once the water is boiling, stir in the penne, and return to a boil. Cook the pasta uncovered, stirring occasionally, until the pasta has cooked through, but is still firm to the bite, about 11 minutes. Drain well in a colander set in the sink.
+2. Heat the pumpkin puree, chicken broth, milk, margarine, onion powder, black pepper, salt, cloves, nutmeg, cinnamon, and ginger in a large skillet over low heat until heated through, about 5 minutes. Stir in the drained pasta, and toss with the Parmesan cheese.
+</instructions>
+  <servingSize>
+    <quantity>1.0</quantity>
+    <unit></unit>
+  </servingSize>
+  <servings>3.0</servings>
+  <rating>0.8</rating>
+  <ingredients>
+    <ingredient>
+      <name>whole wheat penne pasta</name>
+      <amount>
+        <quantity>6.0</quantity>
+        <unit>ounces</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>punkin puree</name>
+      <amount>
+        <quantity>0.75</quantity>
+        <unit>cups</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>low sodium chicken broth</name>
+      <amount>
+        <quantity>0.75</quantity>
+        <unit>cups</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>nonfat milk</name>
+      <amount>
+        <quantity>0.25</quantity>
+        <unit>cup</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>margarine</name>
+      <amount>
+        <quantity>1.0</quantity>
+        <unit>tsp</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>onion powder</name>
+      <amount>
+        <quantity>0.25</quantity>
+        <unit>tsp</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>ground black pepper</name>
+      <amount>
+        <quantity>0.25</quantity>
+        <unit>tsp</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>salt</name>
+      <amount>
+        <quantity>0.25</quantity>
+        <unit>tsp</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>ground cloves</name>
+      <amount>
+        <quantity>1.0</quantity>
+        <unit>pinch</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>nutmeg</name>
+      <amount>
+        <quantity>1.0</quantity>
+        <unit>pinch</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>cinnamon</name>
+      <amount>
+        <quantity>1.0</quantity>
+        <unit>pinch</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>ginger</name>
+      <amount>
+        <quantity>1.0</quantity>
+        <unit>pinch</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>grated Parmesan cheese, plus more for serving</name>
+      <amount>
+        <quantity>0.25</quantity>
+        <unit>cups</unit>
+      </amount>
+    </ingredient>
+  </ingredients>
+  <nutritionInformation>
+    <Calories>
+      <quantity>255.0</quantity>
+      <unit>Calories</unit>
+    </Calories>
+    <totalFat>
+      <quantity>4.4</quantity>
+      <unit>grams</unit>
+    </totalFat>
+    <saturatedFat>
+      <quantity>7.0</quantity>
+      <unit>grams</unit>
+    </saturatedFat>
+    <transFat>
+      <quantity>0.0</quantity>
+      <unit>grams</unit>
+    </transFat>
+    <cholesterol>
+      <quantity>7.0</quantity>
+      <unit>milligrams</unit>
+    </cholesterol>
+    <sodium>
+      <quantity>500.0</quantity>
+      <unit>milligrams</unit>
+    </sodium>
+    <totalCarbohydrate>
+      <quantity>45.3</quantity>
+      <unit>grams</unit>
+    </totalCarbohydrate>
+    <dietaryFiber>
+      <quantity>8.6</quantity>
+      <unit>grams</unit>
+    </dietaryFiber>
+    <protein>
+      <quantity>12.4</quantity>
+      <unit>grams</unit>
+    </protein>
+  </nutritionInformation>
+</recipe>

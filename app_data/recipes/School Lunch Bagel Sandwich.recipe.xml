@@ -1,0 +1,84 @@
+<recipe>
+  <name>School Lunch Bagel Sandwich</name>
+  <instructions>Spread the cream cheese on the toasted bagel. Layer the Cheddar cheese, pickle slices, carrot, and lettuce onto one half of the bagel, then top with the remaining bagel half. Cut the sandwich in half and wrap with plastic wrap or aluminum foil. Place the sandwich in a lunch bag with an ice pack. </instructions>
+  <servingSize>
+    <quantity>1.0</quantity>
+    <unit></unit>
+  </servingSize>
+  <servings>1.0</servings>
+  <rating>1.0</rating>
+  <ingredients>
+    <ingredient>
+      <name>herb and garlic flavored cream cheese</name>
+      <amount>
+        <quantity>1.0</quantity>
+        <unit>tbs</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>multigrain bagel, split and toasted</name>
+      <amount>
+        <quantity>1.0</quantity>
+        <unit></unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>cheddar cheese</name>
+      <amount>
+        <quantity>2.0</quantity>
+        <unit>thin slices</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>dill pickle</name>
+      <amount>
+        <quantity>2.0</quantity>
+        <unit>slices</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>shredded carrot</name>
+      <amount>
+        <quantity>0.25</quantity>
+        <unit>cup</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>lettuce</name>
+      <amount>
+        <quantity>1.0</quantity>
+        <unit>leaf</unit>
+      </amount>
+    </ingredient>
+  </ingredients>
+  <nutritionInformation>
+    <Calories>
+      <quantity>474.0</quantity>
+      <unit>Calories</unit>
+    </Calories>
+    <totalFat>
+      <quantity>16.0</quantity>
+      <unit>grams</unit>
+    </totalFat>
+    <cholesterol>
+      <quantity>44.0</quantity>
+      <unit>milligrams</unit>
+    </cholesterol>
+    <sodium>
+      <quantity>1055.0</quantity>
+      <unit>milligrams</unit>
+    </sodium>
+    <totalCarbohydrate>
+      <quantity>66.8</quantity>
+      <unit>grams</unit>
+    </totalCarbohydrate>
+    <dietaryFiber>
+      <quantity>11.3</quantity>
+      <unit>grams</unit>
+    </dietaryFiber>
+    <protein>
+      <quantity>20.0</quantity>
+      <unit>grams</unit>
+    </protein>
+  </nutritionInformation>
+</recipe>

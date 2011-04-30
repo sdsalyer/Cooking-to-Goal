@@ -1,0 +1,41 @@
+<recipe>
+  <name>Thirty Minute Chili</name>
+  <instructions>Crumble the beef into a large skillet over medium-high heat. Cook and stir until evenly browned. Drain off grease, and mix in the tomatoes, kidney beans and chili seasoning mix. Reduce heat to medium, and simmer for 15 minutes.</instructions>
+  <servingSize>
+    <quantity>1.0</quantity>
+    <unit></unit>
+  </servingSize>
+  <servings>5.0</servings>
+  <rating>0.6</rating>
+  <ingredients>
+    <ingredient>
+      <name>ground beef</name>
+      <amount>
+        <quantity>1.0</quantity>
+        <unit>pound</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>canned diced tomatoes</name>
+      <amount>
+        <quantity>1.0</quantity>
+        <unit>can</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>kidney beans, drained</name>
+      <amount>
+        <quantity>1.0</quantity>
+        <unit>can</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>package chili seasoning mix</name>
+      <amount>
+        <quantity>1.0</quantity>
+        <unit></unit>
+      </amount>
+    </ingredient>
+  </ingredients>
+  <nutritionInformation/>
+</recipe>

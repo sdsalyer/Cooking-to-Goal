@@ -1,0 +1,87 @@
+<recipe>
+  <name>Chicken Cordon Bleu</name>
+  <instructions>1. Preheat oven to 350 degrees F (175 degrees C). Coat a 7x11 inch baking dish with nonstick cooking spray.
+2. Pound chicken breasts to 1/4 inch thickness.
+3. Sprinkle each piece of chicken on both sides with salt and pepper. Place 1 cheese slice and 1 ham slice on top of each breast. Roll up each breast, and secure with a toothpick. Place in baking dish, and sprinkle chicken evenly with bread crumbs.
+4. Bake for 30 to 35 minutes, or until chicken is no longer pink. Remove from oven, and place 1/2 cheese slice on top of each breast. Return to oven for 3 to 5 minutes, or until cheese has melted. Remove toothpicks, and serve immediately</instructions>
+  <servingSize>
+    <quantity>1.0</quantity>
+    <unit></unit>
+  </servingSize>
+  <servings>4.0</servings>
+  <rating>1.0</rating>
+  <ingredients>
+    <ingredient>
+      <name>skinless, boneless chicken breast halves</name>
+      <amount>
+        <quantity>4.0</quantity>
+        <unit></unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>salt</name>
+      <amount>
+        <quantity>0.25</quantity>
+        <unit>tsp</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>ground black pepper</name>
+      <amount>
+        <quantity>0.13</quantity>
+        <unit>tsp</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>Swiss Cheese</name>
+      <amount>
+        <quantity>6.0</quantity>
+        <unit>slices</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>cooked ham</name>
+      <amount>
+        <quantity>4.0</quantity>
+        <unit>slices</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>seasoned bread crumbs</name>
+      <amount>
+        <quantity>0.5</quantity>
+        <unit>cup</unit>
+      </amount>
+    </ingredient>
+  </ingredients>
+  <nutritionInformation>
+    <Calories>
+      <quantity>419.0</quantity>
+      <unit>Calories</unit>
+    </Calories>
+    <totalFat>
+      <quantity>19.4</quantity>
+      <unit>grams</unit>
+    </totalFat>
+    <cholesterol>
+      <quantity>124.0</quantity>
+      <unit>milligrams</unit>
+    </cholesterol>
+    <sodium>
+      <quantity>932.0</quantity>
+      <unit>milligrams</unit>
+    </sodium>
+    <totalCarbohydrate>
+      <quantity>12.6</quantity>
+      <unit>grams</unit>
+    </totalCarbohydrate>
+    <dietaryFiber>
+      <quantity>0.8</quantity>
+      <unit>grams</unit>
+    </dietaryFiber>
+    <protein>
+      <quantity>46.1</quantity>
+      <unit>grams</unit>
+    </protein>
+  </nutritionInformation>
+</recipe>

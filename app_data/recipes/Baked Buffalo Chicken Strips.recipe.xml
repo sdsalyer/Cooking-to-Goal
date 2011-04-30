@@ -1,0 +1,103 @@
+<recipe>
+  <name>Baked Buffalo Chicken Strips</name>
+  <instructions>1. Whisk together the buttermilk and 1/2 cup hot pepper sauce in a bowl, and pour into a resealable plastic bag. Add the chicken breast strips, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for at least 1 hour or overnight.
+2. Preheat an oven to 400 degrees F (200 degrees C). Grease a baking sheet; set aside. Remove the chicken from the marinade, and shake off excess. Discard the remaining marinade.
+3. Place the panko bread crumbs and egg substitute in separate dishes. Gently press the chicken into the bread crumbs to coat and shake off the excess. Dip into the beaten egg, then press into bread crumbs again. Gently toss between your hands so any bread crumbs that haven&apos;t stuck can fall away. Arrange the breaded chicken on the prepared baking sheet. Spray chicken strips lightly with cooking spray.
+4. Bake in the preheated oven for 10 minutes, then gently flip the chicken strips and spray with cooking spray again. Continue baking the chicken until golden brown and no longer pink in the center, about 10 minutes more. Add a dash more of the hot pepper sauce, a return to oven. Bake until the sauce dries, about 5 minutes.
+</instructions>
+  <servingSize>
+    <quantity>1.0</quantity>
+    <unit></unit>
+  </servingSize>
+  <servings>4.0</servings>
+  <rating>0.8</rating>
+  <ingredients>
+    <ingredient>
+      <name>low-fat buttermilk</name>
+      <amount>
+        <quantity>2.0</quantity>
+        <unit>cups</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>hot pepper sauce (such as Frank&apos;s RedHot)</name>
+      <amount>
+        <quantity>0.5</quantity>
+        <unit>cup</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>skinless, boneless chicken breast halves, cut into strips</name>
+      <amount>
+        <quantity>2.0</quantity>
+        <unit></unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>(8 ounce) package panko bread crumbs</name>
+      <amount>
+        <quantity>1.0</quantity>
+        <unit></unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>liquid egg substitute (such as Egg Beaters)</name>
+      <amount>
+        <quantity>1.0</quantity>
+        <unit>cup</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>dash hot pepper sauce (such as Frank&apos;s RedHot), or to taste</name>
+      <amount>
+        <quantity>1.0</quantity>
+        <unit></unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>Cooking Spray</name>
+      <amount>
+        <quantity>1.0</quantity>
+        <unit></unit>
+      </amount>
+    </ingredient>
+  </ingredients>
+  <nutritionInformation>
+    <Calories>
+      <quantity>360.0</quantity>
+      <unit>Calories</unit>
+    </Calories>
+    <totalFat>
+      <quantity>10.3</quantity>
+      <unit>grams</unit>
+    </totalFat>
+    <saturatedFat>
+      <quantity>0.0</quantity>
+      <unit>grams</unit>
+    </saturatedFat>
+    <transFat>
+      <quantity>0.0</quantity>
+      <unit>grams</unit>
+    </transFat>
+    <cholesterol>
+      <quantity>38.0</quantity>
+      <unit>milligrams</unit>
+    </cholesterol>
+    <sodium>
+      <quantity>1390.0</quantity>
+      <unit>milligrams</unit>
+    </sodium>
+    <totalCarbohydrate>
+      <quantity>52.7</quantity>
+      <unit>grams</unit>
+    </totalCarbohydrate>
+    <dietaryFiber>
+      <quantity>0.2</quantity>
+      <unit>grams</unit>
+    </dietaryFiber>
+    <protein>
+      <quantity>27.6</quantity>
+      <unit>grams</unit>
+    </protein>
+  </nutritionInformation>
+</recipe>

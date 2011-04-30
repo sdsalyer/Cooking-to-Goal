@@ -1,0 +1,63 @@
+<recipe>
+  <name>Grilled Cheese Sandwich</name>
+  <instructions>Preheat skillet over medium heat. Generously butter one side of a slice of bread. Place bread butter-side-down onto skillet bottom and add 1 slice of cheese. Butter a second slice of bread on one side and place butter-side-up on top of sandwich. Grill until lightly browned and flip over; continue grilling until cheese is melted. Repeat with remaining 2 slices of bread, butter and slice of cheese. </instructions>
+  <servingSize>
+    <quantity>1.0</quantity>
+    <unit></unit>
+  </servingSize>
+  <servings>2.0</servings>
+  <rating>1.0</rating>
+  <ingredients>
+    <ingredient>
+      <name>white bread</name>
+      <amount>
+        <quantity>4.0</quantity>
+        <unit>slices</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>butter, divided</name>
+      <amount>
+        <quantity>3.0</quantity>
+        <unit>tbs</unit>
+      </amount>
+    </ingredient>
+    <ingredient>
+      <name>cheddar cheese</name>
+      <amount>
+        <quantity>2.0</quantity>
+        <unit>slices</unit>
+      </amount>
+    </ingredient>
+  </ingredients>
+  <nutritionInformation>
+    <Calories>
+      <quantity>400.0</quantity>
+      <unit>Calories</unit>
+    </Calories>
+    <totalFat>
+      <quantity>28.3</quantity>
+      <unit>grams</unit>
+    </totalFat>
+    <cholesterol>
+      <quantity>76.0</quantity>
+      <unit>milligrams</unit>
+    </cholesterol>
+    <sodium>
+      <quantity>639.0</quantity>
+      <unit>milligrams</unit>
+    </sodium>
+    <totalCarbohydrate>
+      <quantity>25.7</quantity>
+      <unit>grams</unit>
+    </totalCarbohydrate>
+    <dietaryFiber>
+      <quantity>1.2</quantity>
+      <unit>grams</unit>
+    </dietaryFiber>
+    <protein>
+      <quantity>11.1</quantity>
+      <unit>grams</unit>
+    </protein>
+  </nutritionInformation>
+</recipe>
